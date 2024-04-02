@@ -91,7 +91,8 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 - Must ensure that the email address follows the format of hello@yourmail.com
   
 - Must ensure that the password satisfies the following conditions
-  
+
+```txt
 - minimum of 6 characters
 - maximum of 12 characters
 - must be alphanumeric
@@ -99,6 +100,7 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 - must have at least one lowercase
 - must have at least one number
 - must be hidden on the password field with asterisk*
+```
 
 - Must ensure that the login page loads in less than one second.
 
@@ -108,13 +110,17 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 
 - Must ensure that if the User enters an incorrect email format
 
+```txt
 - The error message should say: ‘You have entered a wrong email format. Please ensure your format is hello@yourmail.com’ 
 - The error message should appear below the email address in red font colour.
+```
 
 - Must ensure that if the User enters the wrong email or password
 
+```txt
 - The error message should say: ‘Your email or password is incorrect. Try again!’
 - The error message should appear above the email address in red font colour.
+```
 
 - Must ensure that “Forgot Password” link option is provided to reset password if user has forgotten the password.
 

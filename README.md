@@ -28,107 +28,97 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 
 # User Stories & Acceptance Criteria
 
-Why do we need this?
+### Why do we need this?
 
-We need to be able to provide users with an interface in the app to sign-in securely by entering their login credentials so that they can be verified and allowed access.
+- We need to be able to provide users with an interface in the app to sign-in securely by entering their login credentials so that they can be verified and allowed access.
 
-Job Story
+### Job Story
 
-As a user
-I want to be able to provide my email and password
-So that i can sign-in to have access to the application
+- As a user
+- I want to be able to provide my email and password
+- So that i can sign-in to have access to the application
 
-Preconditions
+### Preconditions
 
-User must have a valid email address
+- User must have a valid email address
+- User is on the login page of the application
 
-User is on the login page of the application
+### User Flow
 
-User Flow
+- User opens app and is shown login page if not logged in
+- User enters email address
+- User enters password
+- User clicks on [sign-in] button
 
-User opens app and is shown login page if not logged in
-User enters email address
-User enters password
-User clicks on [sign-in] button
+### Post conditions
 
-Post conditions
+- User credentials are verified.
+- If credentials are valid, User is granted access to application’s features.
 
-User credentials are verified.
+### Acceptance Criteria
 
-If credentials are valid, User is granted access to application’s features.
+#### On successful Login, existing Users will be granted access to the app. 
 
-Acceptance Criteria
+- GIVEN that User is existing
+- AND Login Page is loaded
+- WHEN mandatory fields are correctly populated with credentials
+- AND the User clicks on the "Sign-in" button
+- THEN the User is verified 
+- AND granted access to the application
 
-On successful Login, existing Users will be granted access to the app. 
+#### All mandatory fields must be populated correctly to successfully login.
 
-GIVEN that User is existing
-AND Login Page is loaded
-WHEN mandatory fields are correctly populated with credentials
-AND the User clicks on the "Sign-in" button
-THEN the User is verified 
-AND granted access to the application
+- GIVEN that User is existing
+- AND Login Page is loaded
+- WHEN mandatory fields are NOT correctly populated with credentials
+- AND the User clicks on the "Sign-in" button
+- THEN the User's verification will fail 
+- AND redirected back to the Login page
+- AND an Error message is displayed to confirm failed attempt
 
-All mandatory fields must be populated correctly to successfully login.
+#### New users cannot login because verification will fail and will receive an error message on attempt. 
 
-GIVEN that User is existing
-AND Login Page is loaded
-WHEN mandatory fields are NOT correctly populated with credentials
-AND the User clicks on the "Sign-in" button
-THEN the User's verification will fail 
-AND redirected back to the Login page
-AND an Error message is displayed to confirm failed attempt
+- GIVEN that User is new
+- AND Login Page is loaded
+- WHEN mandatory fields are correctly populated with credentials
+- AND the User clicks on the "Sign-in" button
+- THEN the User's verification will fail
+- AND redirected back to the Login page
+- AND an Error message is displayed to confirm failed attempt  
 
-New users cannot login because verification will fail and will receive an error message on attempt. 
+#### Happy Path
 
-GIVEN that User is new
-AND Login Page is loaded
-WHEN mandatory fields are correctly populated with credentials
-AND the User clicks on the "Sign-in" button
-THEN the User's verification will fail
-AND redirected back to the Login page
-AND an Error message is displayed to confirm failed attempt  
+- Must ensure that the email address follows the format of hello@yourmail.com
+  
+- Must ensure that the password satisfies the following conditions
+  
+- minimum of 6 characters
+- maximum of 12 characters
+- must be alphanumeric
+- must have at least one uppercase
+- must have at least one lowercase
+- must have at least one number
+- must be hidden on the password field with asterisk*
 
-Happy Path
+- Must ensure that the login page loads in less than one second.
 
-Must ensure that the email address follows the format of hello@yourmail.com
+- Must ensure that when the user clicks on the Sign-in button,  that the user’s credentials are immediately sent to the backend for verification when credentials are correctly entered.
 
-Must ensure that the password satisfies the following conditions
+#### Unhappy Path
 
-minimum of 6 characters
+- Must ensure that if the User enters an incorrect email format
 
-maximum of 12 characters
+- The error message should say: ‘You have entered a wrong email format. Please ensure your format is hello@yourmail.com’ 
+- The error message should appear below the email address in red font colour.
 
-must be alphanumeric
+- Must ensure that if the User enters the wrong email or password
 
-must have at least one uppercase
+- The error message should say: ‘Your email or password is incorrect. Try again!’
+- The error message should appear above the email address in red font colour.
 
-must have at least one lowercase
+- Must ensure that “Forgot Password” link option is provided to reset password if user has forgotten the password.
 
-must have at least one number
-
-must be hidden on the password field with asterisk*
-
-Must ensure that the login page loads in less than one second.
-
-Must ensure that when the user clicks on the Sign-in button,  that the user’s credentials are immediately sent to the backend for verification when credentials are correctly entered.
-
-Unhappy Path
-
-Must ensure that if the User enters an incorrect email format
-
-The error message should say: ‘You have entered a wrong email format. Please ensure your format is hello@yourmail.com’ 
-
-The error message should appear below the email address in red font colour.
-
-Must ensure that if the User enters the wrong email or password
-
-The error message should say: ‘Your email or password is incorrect. Try again!’
-
-The error message should appear above the email address in red font colour.
-
-Must ensure that “Forgot Password” link option is provided to reset password if user has forgotten the password.
-
-Account should be locked after 5 failed login attempts.
+- Account should be locked after 5 failed login attempts.
 
 <img width="960" alt="image" src="https://github.com/omeatai/Business-Analysis/assets/32337103/5f9e75dc-24e5-45ca-a1d8-6feb40828476">
 <img width="960" alt="image" src="https://github.com/omeatai/Business-Analysis/assets/32337103/dea804a4-f03c-4341-8920-c88d3f1267aa">

@@ -19,6 +19,8 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 
 <img width="1534" alt="image" src="https://github.com/omeatai/Business-Analysis/assets/32337103/33dfd961-b282-4183-8d37-3f7ca3e2f64c">
 <img width="1534" alt="image" src="https://github.com/omeatai/Business-Analysis/assets/32337103/c2b979f0-6d9b-4c57-8b1b-9e884de15763">
+<img width="1534" alt="image" src="https://github.com/omeatai/Business-Analysis/assets/32337103/f1373f96-f137-4fde-b31b-009272abcbee">
+
 
 #END</details>
 <details>

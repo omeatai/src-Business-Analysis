@@ -33,6 +33,16 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 
 <img width="1534" alt="image" src="https://github.com/omeatai/Business-Analysis/assets/32337103/95c7a92c-3e61-4e57-9fcd-70140afcecf8">
 
+#END</details>
+<details>
+<summary>4. Chat GPT Prompt for generating Epics, User Stories, Acceptance Criteria and Tasks </summary>
+
+```txt
+Act as world class product owner, generate epics, user stories, acceptance criteria, and tasks for the following software feature:
+
+the feature is create secure login for registered customers on our banking app.
+```
+
 
 
 #END</details>

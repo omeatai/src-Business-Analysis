@@ -1,7 +1,13 @@
 # Business-Analysis
 
 <details>
-<summary>1. Epics </summary>
+<summary>1. What is Business Analysis? </summary>
+
+# What is Business Analysis?
+
+#END</details>
+<details>
+<summary>2. Epics </summary>
 
 # Epic - Counsellor Onboarding
 
@@ -15,8 +21,12 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 
 #END</details>
 <details>
-<summary>2. User Stories </summary>
+<summary>1. User Stories </summary>
 
+# User Stories
+
+<img width="960" alt="image" src="https://github.com/omeatai/Business-Analysis/assets/32337103/5f9e75dc-24e5-45ca-a1d8-6feb40828476">
+<img width="960" alt="image" src="https://github.com/omeatai/Business-Analysis/assets/32337103/dea804a4-f03c-4341-8920-c88d3f1267aa">
 
 
 

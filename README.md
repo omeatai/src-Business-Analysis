@@ -22,7 +22,7 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 
 #END</details>
 <details>
-<summary>1. User Stories </summary>
+<summary>3. User Stories </summary>
 
 # User Stories
 

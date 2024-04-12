@@ -1,14 +1,9 @@
 # Business-Analysis
 
 # NOTES
-<details>
-<summary>1. What is Business Analysis? </summary>
 
-# What is Business Analysis?
-
-#END</details>
 <details>
-<summary>2. Epics </summary>
+<summary>A1. Epics </summary>
 
 # Epic - Counsellor Onboarding
 
@@ -25,7 +20,7 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 
 #END</details>
 <details>
-<summary>3. User Stories & Acceptance Criteria </summary>
+<summary>A2. User Stories & Acceptance Criteria </summary>
 
 # User Stories & Acceptance Criteria
 
@@ -147,7 +142,7 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 
 #END</details>
 <details>
-<summary>4. Chat GPT Prompt for generating Epics, User Stories, Acceptance Criteria and Tasks </summary>
+<summary>A3. Chat GPT Prompt for generating Epics, User Stories, Acceptance Criteria and Tasks </summary>
 
 ```txt
 Act as world class product owner, generate epics, user stories, acceptance criteria, and tasks for the following software feature:

@@ -1,5 +1,6 @@
 # Business-Analysis
 
+# NOTES
 <details>
 <summary>1. What is Business Analysis? </summary>
 
@@ -153,6 +154,16 @@ Act as world class product owner, generate epics, user stories, acceptance crite
 
 the feature is create secure login for registered customers on our banking app.
 ```
+
+# COURSE
+
+#END</details>
+<details>
+<summary>1. What is Business Analysis? </summary>
+
+# What is Business Analysis?
+
+
 
 
 

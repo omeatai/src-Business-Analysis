@@ -411,10 +411,28 @@ These include the following:
 # COURSE
 
 <details>
-<summary>1. What is Business Analysis? </summary>
+<summary>1. Introduction to Business Analysis </summary>
 
-# What is Business Analysis?
+# Introduction to Business Analysis
 
+## Who are Business Analysts?
+
+- Business Analysts were also called System Analysts.
+- Business Analysts analyze Business Systems to enable change in an enterprise, by defining needs and recommending solutions that deliver value to stakeholders.
+- Business Analysts gather requirements with respect to any changes to be made to Internal or External Business Systems.
+
+## Types of Business Systems:
+
+1. Internal System - These are systems used by employees or staff of the organisation. eg. Salesforce, POS Systems.
+2. External System - These are systems used by the customers. eg. Self-Checkout Machines, A Company Website.
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/9237b3f4-da26-4443-a2bf-cc4d042ceb15)
+
+## Types of Business System Changes:
+
+1. New System - This is creating a stand-alone system or new product.
+2. System Enhancement - This is adding more features or changes to an existing System.
+3. System Re-engineering - This is completely upgrading the system to a new platform to replace the old system. Reverse Engineering can be used to capture requirements.
 
 # #END</details>
 

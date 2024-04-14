@@ -212,6 +212,94 @@ He/she plays an instrumental role throughout the project lifecycle and thereby i
 
 # #END</details>
 
+<details>
+<summary>A4. How Is Business Analysis Performed? </summary>
+
+# How Is Business Analysis Performed?
+
+Business analysis is divided into multiple steps, with each phase having specific tasks to perform, principles to follow, and documents to produce.
+
+- Information Gathering
+- Discover Business Objectives
+- Define Scope
+- Business Analysis Plan
+- Define Detailed Requirements
+- Implementation
+- Access The Value Created by The Project
+
+## Information Gathering 
+
+This is the initial step where you lay the groundwork for your project.
+
+Key Responsibilities
+Clarifying your role as a business analyst 
+Identifying the primary stakeholders
+Understanding the history of your project
+Understanding the current systems and business processes
+
+## Discover Business Objectives
+
+In this particular step, the objectives and goals of the project are defined.
+
+Key Responsibilities
+Finding out the "why" behind the project.
+Finding out the expectations of your primary stakeholders.
+Making sure that the business objectives are clear and attainable.
+Solving the conflicting expectations so that everyone is on the same page.
+
+## Define Scope
+
+In this step, you need to define a clear, concise, and complete statement of scope.
+
+Key Responsibilities
+Verifying and confirming the business objectives to make sure that the organization is still investing in them
+Developing multiple strategies to figure out the suitable technology, shortlisting the options.
+Define the business process changes that are needed to implement the solution
+Drafting and reviewing scope statement
+
+## Business Analysis Plan
+
+Planning is necessary to make any project successful. Business analysts and the project owner can devise a proper plan to deliver the appropriate requirements. In the further stages of the project a business analysis plan will answer many questions for you and your project team. It will bring clarity to the business analysis process and help you define the detailed requirements for a project.
+
+Key Responsibilities
+Identifying the most appropriate types of business analysis deliverables
+Set up deadlines for completing these defined deliverables
+Check business analysis deliverables
+Complete the deliverables
+
+## Define Detailed Requirements
+
+After the planning process is done the requirements are defined. Make sure that requirements are clear, concise, concrete, complete and consistent.
+
+Key Responsibilities
+Gathering the information needed
+Analyzing the discovered requirements and creating a first draft that contains the one or more business analysis deliverables in detail 
+Outlining and validating each deliverable with appropriate technology
+Reviewing and validating deliverables
+
+## Implementation
+
+Implementing the solution is a crucial point. This step should proceed according to the way it was planned otherwise the project may get delayed. As an analyst you need to help the technical team in any way possible. 
+
+Key Responsibilities
+Analyzing the solution design to ensure it can fulfill all of the requirements stated by stakeholders
+Documenting the project so it will be useful for the technology design and implementation process
+Liaison between the business users and technical team. The Business analysts must answer every question and resolve the issues that may occur during the technical design implementation or testing phases 
+Assisting the team to accept the changes that might come up after all the steps are completed including the implementation part
+
+## Access The Value Created by The Project
+
+The last step is to check if the result obtained matches what you had expected. 
+
+Key Responsibilities
+Evaluating the progress against the business objectives
+Proposing follow-up plans
+Accessing the user engagement using various tools and techniques
+Delivering the results to the stakeholders 
+
+
+# #END</details>
+
 # COURSE
 
 <details>

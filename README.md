@@ -3,7 +3,7 @@
 # NOTES
 
 <details>
-<summary>A1. Epics </summary>
+<summary>X1. Epics </summary>
 
 # Epic - Counsellor Onboarding
 
@@ -20,7 +20,7 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 
 #END</details>
 <details>
-<summary>A2. User Stories & Acceptance Criteria </summary>
+<summary>X2. User Stories & Acceptance Criteria </summary>
 
 # User Stories & Acceptance Criteria
 

@@ -169,7 +169,7 @@ the feature is create secure login for registered customers on our banking app.
 - Assigning sufficient resources
 - Achieving greater efficiency
 
-#END</details>
+# #END</details>
 
 <details>
 <summary>A2. Importance of Business Analysis </summary>
@@ -188,16 +188,29 @@ The Benefits of Business Analysis:
 A Business Analyst involves himself (herself) in the implementation phase and also identifies various ways to reach the estimated goals. 
 He/she plays an instrumental role throughout the project lifecycle and thereby increases the demand for business analysts in every organization.
 
-#END</details>
+# #END</details>
 
 <details>
-<summary>1. What is Business Analysis? </summary>
+<summary>A3. Top Companies Using Business Analysis </summary>
 
-# What is Business Analysis?
+# Top Companies Using Business Analysis
 
+- Accenture 
+- Cognizant
+- Deloitte
+- TATA CONSULTANCY SERVICES
+- KFORCE 
+- AMERICAN EXPRESS
+- Google 
+- DELL
+- amazon 
+- Flipkart
 
+- System analysts mainly focus on creating and implementing specific systems with a more technical approach to the work.
+- Data analysts help companies by analyzing data and using that data to perform proper actions to present value to the business stakeholders.
+- Business analytics is usually dependent on data and reporting. It involves skills, technologies, past performance investigation, and information search.
 
-#END</details>
+# #END</details>
 
 # COURSE
 
@@ -207,7 +220,7 @@ He/she plays an instrumental role throughout the project lifecycle and thereby i
 # What is Business Analysis?
 
 
-#END</details>
+# #END</details>
 
 <details>
 <summary>2. What is Business Analysis? </summary>
@@ -215,4 +228,4 @@ He/she plays an instrumental role throughout the project lifecycle and thereby i
 # What is Business Analysis?
 
 
-#END</details>
+# #END</details>

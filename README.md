@@ -142,7 +142,7 @@ As a counsellor i want to be able to onboard on the e-counselling web app so tha
 
 #END</details>
 <details>
-<summary>A3. Chat GPT Prompt for generating Epics, User Stories, Acceptance Criteria and Tasks </summary>
+<summary>X3. Chat GPT Prompt for generating Epics, User Stories, Acceptance Criteria and Tasks </summary>
 
 ```txt
 Act as world class product owner, generate epics, user stories, acceptance criteria, and tasks for the following software feature:

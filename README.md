@@ -496,9 +496,9 @@ These include the following:
 # #END</details>
 
 <details>
-<summary>2. What is Business Analysis? </summary>
+<summary>2. Documenting Business Requirements </summary>
 
-# What is Business Analysis?
+# Documenting Business Requirements
 
 
 # #END</details>

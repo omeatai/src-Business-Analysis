@@ -434,6 +434,44 @@ These include the following:
 2. System Enhancement - This is adding more features or changes to an existing System.
 3. System Re-engineering - This is completely upgrading the system to a new platform to replace the old system. Reverse Engineering can be used to capture requirements.
 
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/715673b1-34e6-4b1e-b672-63869a5f1d1f)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/03388173-8c21-45b8-97b1-086125806d0b)
+
+## Successful Traits of a Business Analyst:
+
+1. Interpersonal Skills - Ability to be a people person
+2. Communication Skills
+3. Listening Skills
+4. Elicitation Skills - Ability to Ask Questions
+5. Documentation Skills - Ability to Take Notes
+
+## 2 Teams Business Analyst work with:
+
+1. Business Team (Stakeholders)
+2. IT Project Team
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/1c9fbad3-4977-460b-9d3e-6db71ade775c)
+
+## Members of an IT Business Team
+
+1. Project Manager
+2. Business Analyst
+3. System Architect
+4. Developers or Programmers
+5. Database Administrator (DBA)
+6. Quality Assurance or Analyst (QA)
+
+### Project Manager
+
+- Manages the IT Team
+- Makes sure the Project is completed in the given timeframe
+- Defines budget based on Scope
+- Provides status update of project
+
+### Business Analyst
+
+- Creates Requirements within Business Requirement document or represented as (Functional Requirements Document(FRD), Use Cases, or User Stories)
+
 # #END</details>
 
 <details>

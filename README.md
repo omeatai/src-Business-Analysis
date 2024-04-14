@@ -169,6 +169,10 @@ the feature is create secure login for registered customers on our banking app.
 - Assigning sufficient resources
 - Achieving greater efficiency
 
+- Business analysis is the practice of enabling change in an enterprise by defining needs and recommending solutions that deliver value to stakeholders.
+- Business analysis enables an enterprise to articulate needs and the rationale for change, and to design and describe solutions that can deliver value.  - IIBA BABOK Guide v3
+- Business analysis helps to bridge the gap between existing processes and growth. It is critical to learn to understand and refine a problem in order to determine and implement a solution.
+
 # #END</details>
 
 <details>
@@ -302,10 +306,78 @@ Key Responsibilities:
 - Evaluating the progress against the business objectives
 - Proposing follow-up plans
 - Accessing the user engagement using various tools and techniques
-- Delivering the results to the stakeholders 
+- Delivering the results to the stakeholders
+
+# #END</details>
+
+<details>
+<summary>A5. Roles & responsibilities of a Business Analyst</summary>
+
+# Roles & responsibilities of a Business Analyst
+
+## Roles of a Business Analyst
+
+1. Multi-tasking
+2. Reach the goal of the organization
+3. Communicate with stakeholders
+4. Determining a suitable way to improve the business processes
+5. Implement new features
+6. Identifying the ways to make the analysis easier
+
+## Responsibilities of a Business Analyst
+
+1. Understanding goals and problems
+2. Meeting the organization's requirements
+3. Analyzation
+4. Communication
+5. Implementation
+
+## Knowledge areas of Business Analysis
+
+- Business Analysis Planning and Monitoring 
+- Elicitation and collaboration
+- Enterprise Analysis
+- Requirements Analysis 
+- Solution Assessment and Validation 
+- Requirements Management and Communication
+
+# #END</details>
+
+<details>
+<summary>A6. Business Analysis techniques</summary>
+
+# Business Analysis techniques
+
+## MOST - Mission, Objectives, Strategies, and Tactics
+
+- Analyzes the internal structures of what an organization aims to accomplish, and how to formulate the specific solutions.
+
+## PESTLE Analysis - Political, Economic, Sociological, Technological, Legal and Environmental 
+
+- Evaluates external factors that would impact business and determine how to address these factors if found.
+
+## SWOT Analysis - Strengths, Weaknesses, Opportunities, Threats
+
+- Involves structuring and categorizing processes into opportunities and threats.
+
+## MOSCOW Analysis - Must or Should, Could or Would
+
+- Allows for prioritizing requirements by presenting a framework in which each condition can be evaluated relative to others.
+
+## CATWOE - Customers, Actors, Transformation Process, World View, Owner, and Environmental Constraints
+
+- Helps business analysts understand different stakeholders' perspectives
+
+# #END</details>
+
+<details>
+<summary>A7. Qualifications of a Business Analyst/BA Competencies</summary>
+
+# Qualifications of a Business Analyst/BA Competencies
 
 
 # #END</details>
+        
 
 # COURSE
 

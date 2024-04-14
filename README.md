@@ -379,6 +379,8 @@ These include the following:
 5. Interaction - ﻿﻿Observation skills, Attention to detail
 6. Tools and technology - Office Suite Knowledge
 
+###
+
 1. Analytical thinking
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/1042dac2-744f-46dd-8181-4ed6f85b405b)

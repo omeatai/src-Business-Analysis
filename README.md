@@ -173,11 +173,6 @@ the feature is create secure login for registered customers on our banking app.
 ### Business analysis enables an enterprise to articulate needs and the rationale for change, and to design and describe solutions that can deliver value.  - IIBA BABOK Guide v3
 ### Business analysis helps to bridge the gap between existing processes and growth. It is critical to learn to understand and refine a problem in order to determine and implement a solution.
 
-# #END</details>
-
-<details>
-<summary>A2. Importance of Business Analysis </summary>
-
 # Importance of Business Analysis
 
 The Benefits of Business Analysis:
@@ -195,7 +190,7 @@ He/she plays an instrumental role throughout the project lifecycle and thereby i
 # #END</details>
 
 <details>
-<summary>A3. Top Companies Using Business Analysis </summary>
+<summary>A2. Top Companies Using Business Analysis </summary>
 
 # Top Companies Using Business Analysis
 
@@ -217,7 +212,7 @@ He/she plays an instrumental role throughout the project lifecycle and thereby i
 # #END</details>
 
 <details>
-<summary>A4. How Is Business Analysis Performed? </summary>
+<summary>A3. How Is Business Analysis Performed? </summary>
 
 # How Is Business Analysis Performed?
 
@@ -311,7 +306,7 @@ Key Responsibilities:
 # #END</details>
 
 <details>
-<summary>A5. Roles & responsibilities of a Business Analyst</summary>
+<summary>A4. Roles & responsibilities of a Business Analyst</summary>
 
 # Roles & responsibilities of a Business Analyst
 
@@ -344,7 +339,7 @@ Key Responsibilities:
 # #END</details>
 
 <details>
-<summary>A6. Business Analysis techniques</summary>
+<summary>A5. Business Analysis techniques</summary>
 
 # Business Analysis techniques
 
@@ -371,10 +366,42 @@ Key Responsibilities:
 # #END</details>
 
 <details>
-<summary>A7. Qualifications of a Business Analyst/BA Competencies</summary>
+<summary>A6. Qualifications of a Business Analyst/BA Competencies</summary>
 
 # Qualifications of a Business Analyst/BA Competencies
 
+These include the following:
+
+1. Analytical thinking - ﻿﻿Ability to Think critically and analytically.
+2. Behavioral characteristics - Ethics, Trustworthiness, Time Management.
+3. Business knowledge - Business Acumen, Industry Knowledge.
+4. Communication - Strong interpersonal and communication skills
+5. Interaction - ﻿﻿Observation skills, Attention to detail
+6. Tools and technology - Office Suite Knowledge
+
+1. Analytical thinking
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/1042dac2-744f-46dd-8181-4ed6f85b405b)
+
+2. Behavioral characteristics
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/e4effd89-2cdc-468f-89ae-0940e38ba6da)
+
+3. Business knowledge
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/74b6516d-dec9-417d-ae72-1516ab366643)
+
+4. Communication
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/4a1bd86e-5d81-490c-abbb-acc125b0b754)
+
+5. Interaction
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/9ea73a6a-62b4-4ffc-a71c-e71e81c1f8a9)
+
+6. Tools and technology
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/f11946f3-39fd-4dc3-8319-542e2ca3e26b)
 
 # #END</details>
         

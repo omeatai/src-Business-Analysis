@@ -152,8 +152,6 @@ the feature is create secure login for registered customers on our banking app.
 
 #END</details>
 
-# COURSE
-
 <details>
 <summary>A4. What is Business Analysis by IIBA? </summary>
 
@@ -170,8 +168,6 @@ the feature is create secure login for registered customers on our banking app.
 - Achieving greater efficiency
 
 #END</details>
-
-# COURSE
 
 <details>
 <summary>A5. Importance of Business Analysis </summary>
@@ -191,8 +187,6 @@ A Business Analyst involves himself (herself) in the implementation phase and al
 He/she plays an instrumental role throughout the project lifecycle and thereby increases the demand for business analysts in every organization.
 
 #END</details>
-
-# COURSE
 
 <details>
 <summary>1. What is Business Analysis? </summary>

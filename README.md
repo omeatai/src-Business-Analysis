@@ -169,9 +169,9 @@ the feature is create secure login for registered customers on our banking app.
 - Assigning sufficient resources
 - Achieving greater efficiency
 
-- Business analysis is the practice of enabling change in an enterprise by defining needs and recommending solutions that deliver value to stakeholders.
-- Business analysis enables an enterprise to articulate needs and the rationale for change, and to design and describe solutions that can deliver value.  - IIBA BABOK Guide v3
-- Business analysis helps to bridge the gap between existing processes and growth. It is critical to learn to understand and refine a problem in order to determine and implement a solution.
+### Business analysis is the practice of enabling change in an enterprise by defining needs and recommending solutions that deliver value to stakeholders.
+### Business analysis enables an enterprise to articulate needs and the rationale for change, and to design and describe solutions that can deliver value.  - IIBA BABOK Guide v3
+### Business analysis helps to bridge the gap between existing processes and growth. It is critical to learn to understand and refine a problem in order to determine and implement a solution.
 
 # #END</details>
 

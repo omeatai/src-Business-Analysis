@@ -155,6 +155,57 @@ the feature is create secure login for registered customers on our banking app.
 # COURSE
 
 <details>
+<summary>A4. What is Business Analysis by IIBA? </summary>
+
+## What is Business Analysis by IIBA?
+
+### "The practice of enabling change in an enterprise by defining needs and recommending solutions that deliver value to the stakeholders"
+
+- Understand the structure and dynamics of the company
+- Technique of understanding business needs
+- Solutions often revolve near to systems development, process improvement, strategic planning, and policy advancement
+- Generating effective solutions
+- Providing the required documentation 
+- Assigning sufficient resources
+- Achieving greater efficiency
+
+#END</details>
+
+# COURSE
+
+<details>
+<summary>A5. Importance of Business Analysis </summary>
+
+# Importance of Business Analysis
+
+The Benefits of Business Analysis:
+
+- Analyze the business requirements
+- Frame the proper planning
+- Has particular pattern of documents
+- Create adequate documentations
+- Identify and develop various actions
+- Improve the company standards
+
+A Business Analyst involves himself (herself) in the implementation phase and also identifies various ways to reach the estimated goals. 
+He/she plays an instrumental role throughout the project lifecycle and thereby increases the demand for business analysts in every organization.
+
+#END</details>
+
+# COURSE
+
+<details>
+<summary>1. What is Business Analysis? </summary>
+
+# What is Business Analysis?
+
+
+
+#END</details>
+
+# COURSE
+
+<details>
 <summary>1. What is Business Analysis? </summary>
 
 # What is Business Analysis?

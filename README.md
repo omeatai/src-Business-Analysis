@@ -470,7 +470,27 @@ These include the following:
 
 ### Business Analyst
 
-- Creates Requirements within Business Requirement document or represented as (Functional Requirements Document(FRD), Use Cases, or User Stories)
+- Creates Requirements within Business Requirements document represented as - Functional Requirements Document(FRD), Use Cases, or User Stories
+
+### Systems Analyst
+
+- Creates System Design based on requirements
+
+### Developers or Programmers
+
+- Writes code based on requirements
+
+### Database Administrator (DBA)
+
+- Designs the Database and creates fields for inputs from the system
+- Saves the Data in the Database
+
+### Quality Assurance or Analyst (QA)
+
+- Ensures that the changes made to the system meet the requirements
+- Tests the system
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/71369790-4e5d-4046-bb4a-13465d816094)
 
 # #END</details>
 

@@ -227,7 +227,7 @@ Business analysis is divided into multiple steps, with each phase having specifi
 6. Implementation
 7. Access The Value Created by The Project
 
-1. Information Gathering 
+## Information Gathering 
 
 This is the initial step where you lay the groundwork for your project.
 

@@ -491,6 +491,7 @@ These include the following:
 - Tests the system
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/71369790-4e5d-4046-bb4a-13465d816094)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/4f29d344-c52b-47c7-9d22-0c29e9628ce2)
 
 # #END</details>
 

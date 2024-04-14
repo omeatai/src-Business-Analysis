@@ -1,6 +1,6 @@
 # Business-Analysis
 
-# NOTES
+# RAW NOTES
 
 <details>
 <summary>X1. Epics </summary>
@@ -152,8 +152,10 @@ the feature is create secure login for registered customers on our banking app.
 
 #END</details>
 
+# NOTES
+
 <details>
-<summary>A4. What is Business Analysis by IIBA? </summary>
+<summary>A1. What is Business Analysis by IIBA? </summary>
 
 ## What is Business Analysis by IIBA?
 
@@ -170,7 +172,7 @@ the feature is create secure login for registered customers on our banking app.
 #END</details>
 
 <details>
-<summary>A5. Importance of Business Analysis </summary>
+<summary>A2. Importance of Business Analysis </summary>
 
 # Importance of Business Analysis
 

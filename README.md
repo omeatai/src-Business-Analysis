@@ -195,16 +195,16 @@ He/she plays an instrumental role throughout the project lifecycle and thereby i
 
 # Top Companies Using Business Analysis
 
-- Accenture 
-- Cognizant
-- Deloitte
-- TATA CONSULTANCY SERVICES
-- KFORCE 
-- AMERICAN EXPRESS
-- Google 
-- DELL
-- amazon 
-- Flipkart
+1. Accenture 
+2. Cognizant
+3. Deloitte
+4. TATA CONSULTANCY SERVICES
+5. KFORCE 
+6. AMERICAN EXPRESS
+7. Google 
+8. DELL
+9. amazon 
+10. Flipkart
 
 - System analysts mainly focus on creating and implementing specific systems with a more technical approach to the work.
 - Data analysts help companies by analyzing data and using that data to perform proper actions to present value to the business stakeholders.

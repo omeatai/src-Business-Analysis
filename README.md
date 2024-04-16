@@ -500,13 +500,37 @@ These include the following:
 
 # Documenting Business Requirements
 
-## Who is a Business Owner -
+## Who is a Business Owner
 
-### A Business Owner is responsible for running the LOB of an Organisation.
+- A Business Owner is responsible for running the LOB of an Organisation.
+- They identify the need of an IT Project
+- They are the Project Sponsor
+  
 ### LOB - Line of Business
+### Project Sponsor - Financially responsible for the Project
 
-![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/c425f358-ea9d-4f2f-af5d-aca77ee52eae)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/6a6725c9-9ad8-4a95-b82e-625c3aca2055)
+
 
 
 
 # #END</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

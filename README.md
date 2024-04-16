@@ -500,7 +500,7 @@ These include the following:
 
 # Documenting Business Requirements
 
-## Who is a Business Owner
+## Who is a Business Owner?
 
 - A Business Owner is responsible for running the LOB of an Organisation.
 - They identify the need of an IT Project
@@ -509,6 +509,11 @@ These include the following:
 - Project Sponsor - Financially responsible for the Project
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/6a6725c9-9ad8-4a95-b82e-625c3aca2055)
+
+## What are Business Requirements?
+
+- Business Requirements are high level requirements used to define the project goals
+- Every Business Requirements would identify a functionality that can be performed within a system
 
 <img width="929" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/8acf0504-67d2-42ed-8210-a30c5f31d391">
 <img width="929" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/2b2959ed-84e7-41ba-b904-91c0b9c9db44">

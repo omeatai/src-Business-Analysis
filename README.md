@@ -510,6 +510,15 @@ These include the following:
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/6a6725c9-9ad8-4a95-b82e-625c3aca2055)
 
+## IT Project Process
+
+- The Business Owner hires a Project Manager
+- The Project Manager hires the IT Team
+- The IT Team will ask the Business Owner for a Business Requirement Document (BRD) to know what change is to be made
+- The Business Analyst will setup meetings and elicit needs to create a BRD in the absence of none
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/f6df91f2-d321-4151-acaf-dd5b8abedf1b)
+
 ## What are Business Requirements?
 
 - Business Requirements are high level requirements used to define the project goals

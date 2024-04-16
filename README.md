@@ -553,36 +553,38 @@ These include the following:
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/04046b3a-be77-4162-ad43-adcb196bf844)
 
-1. Requirements Gathering
+1. Requirements Gathering -
 
 - Business Owner will only give the Business Analyst the scope of the project, but will refer the BA to the SME to gather requirements for the project.
 - The Business Owner will help the BA identify who are the SMEs for which module, and then the BA will set up meetings with them to gather the requirements.
 - SME - Subject Matter Expert
 
-2. Analysis
+2. Analysis -
 
 - In the analysis phase, all the requirements that the BA has gathered in the requirement gathering phase are now refined into Functional Requirements Documents, Use Cases or User Stories.
 - At this stage, the Business Requirements Document is created and represented as Functional Requirements Documents, Use Cases or User Stories.
 - The Requirements Freeze Date - This is the last day of the analysis or making changes to the requirements when the stakeholders sign-off on the BRD.
 
-3. Design
+3. Design -
 
 - The System Architect creates the design based on the requirements.
 
-4. Implementation
+4. Implementation -
    
 - The developers or the programmers implement the designs for the project using code according to the business requirements.
 - The developers write the code while the DBA start creating the database.
 - If the developers have any technical question, they go to the System Architect.
 - If the developers have any requirements related question, they go to the Business Analyst.
 
-5. Testing
+5. Testing -
 
 - The QA ensures that the system is working according to the requirements documented by the BA.
 
-6. Deployment
+6. Deployment -
 
 - At the deployment stage, the IT Team ensures that when the deliverable is released, it's working fine and all the changes are live without any issues or errors.
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/e08a8609-e8bb-442c-bacb-258cfcf45e7c)
 
 # #END</details>
 

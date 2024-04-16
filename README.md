@@ -518,8 +518,10 @@ These include the following:
 - The Business Analyst will setup meetings and elicit needs to create a BRD in the absence of none
 - The Project Manager will create a Project Charter to determine how much Time + Budget will be required for the Project
 - A Project Kickoff meeting is conducted to start the project
+- This leads to the start of the Software/System Developement Life Cycle (SDLC)
   
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/9fb21cdc-3cfe-46b7-8753-46c551643679)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/2fa73dfe-c2e3-46d3-ac3e-89d1329c55ed)
 
 ## What are Business Requirements?
 

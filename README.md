@@ -531,6 +531,14 @@ These include the following:
 <img width="929" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/8acf0504-67d2-42ed-8210-a30c5f31d391">
 <img width="929" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/2b2959ed-84e7-41ba-b904-91c0b9c9db44">
 
+# #END</details>
+
+<details>
+<summary>3. Software/System Developement Life Cycle (SDLC) - Introduction </summary>
+
+# Software/System Developement Life Cycle (SDLC) - Introduction
+
+
 
 # #END</details>
 

@@ -517,8 +517,9 @@ These include the following:
 - The IT Team will ask the Business Owner for a Business Requirement Document (BRD) to know what change is to be made
 - The Business Analyst will setup meetings and elicit needs to create a BRD in the absence of none
 - The Project Manager will create a Project Charter to determine how much Time + Budget will be required for the Project
-
-![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/0f40bed8-e60a-4ac7-87ea-76e35883768b)
+- A Project Kickoff meeting is conducted to start the project
+  
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/9fb21cdc-3cfe-46b7-8753-46c551643679)
 
 ## What are Business Requirements?
 

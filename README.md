@@ -538,6 +538,23 @@ These include the following:
 
 # Software/System Developement Life Cycle (SDLC) - Introduction
 
+## What is SDLC?
+
+- SDLC is the Life cycle of the Product
+
+## Stages in SDLC
+
+1. Requirements Gathering
+2. Analysis
+3. Design
+4. Implementation
+5. Testing
+6. Deployment
+
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/04046b3a-be77-4162-ad43-adcb196bf844)
+
+
 
 
 # #END</details>

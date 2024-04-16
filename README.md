@@ -500,5 +500,13 @@ These include the following:
 
 # Documenting Business Requirements
 
+## Who is a Business Owner -
+
+### A Business Owner is responsible for running the LOB of an Organisation.
+### LOB - Line of Business
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/c425f358-ea9d-4f2f-af5d-aca77ee52eae)
+
+
 
 # #END</details>

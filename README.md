@@ -622,6 +622,8 @@ The role as a Business Analyst in SDLC is:
 
 # Understanding AS-IN Business
 
+## Introduction
+
 - Read existing business process documents and familiarize with business jargons.
 - Understand the current system in a sandbox environment.
 

@@ -598,6 +598,44 @@ The role as a Business Analyst in SDLC is:
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/546bf94d-d2d3-47bb-9cc1-556f68759618)
 
+## Understanding AS-IN Business
+
+- Read existing business process documents and familiarize with business jargons.
+- Understand the current system in a sandbox environment.
+
+### Question-
+
+- If given an opportunity to work with us, how will you get up to speed?
+- If Introduced to a new business domain, what steps would you take to understand the domain?
+
+### Answer-
+
+- I would start understanding the new business domain by reading the existing business process documents so that I can familiarize myself with the AS-IS business processes. 
+- I would also make sure that I understand all the business jargons associated with the project scope.
+- I would also understand the current system in a sandbox environment.
+- While I do this I would comply a list of questions that may arise and would like to get them answered by talking to a designated mentor.
+
+# #END</details>
+
+<details>
+<summary>4. CASE STUDY - Understanding AS-IN Business </summary>
+
+# Understanding AS-IN Business
+
+- Read existing business process documents and familiarize with business jargons.
+- Understand the current system in a sandbox environment.
+
+### Question-
+
+- If given an opportunity to work with us, how will you get up to speed?
+- If Introduced to a new business domain, what steps would you take to understand the domain?
+
+### Answer-
+
+- I would start understanding the new business domain by reading the existing business process documents so that I can familiarize myself with the AS-IS business processes. 
+- I would also make sure that I understand all the business jargons associated with the project scope.
+- I would also understand the current system in a sandbox environment.
+- While I do this I would comply a list of questions that may arise and would like to get them answered by talking to a designated mentor.
 
 
 

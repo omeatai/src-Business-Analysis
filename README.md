@@ -613,7 +613,7 @@ The role as a Business Analyst in SDLC is:
 - I would start understanding the new business domain by reading the existing business process documents so that I can familiarize myself with the AS-IS business processes. 
 - I would also make sure that I understand all the business jargons associated with the project scope.
 - I would also understand the current system in a sandbox environment.
-- While I do this I would comply a list of questions that may arise and would like to get them answered by talking to a designated mentor.
+- While I do this I would compile a list of questions that may arise and would like to get them answered by talking to a designated mentor.
 
 # #END</details>
 
@@ -637,7 +637,7 @@ The role as a Business Analyst in SDLC is:
 - I would start understanding the new business domain by reading the existing business process documents so that I can familiarize myself with the AS-IS business processes. 
 - I would also make sure that I understand all the business jargons associated with the project scope.
 - I would also understand the current system in a sandbox environment.
-- While I do this I would comply a list of questions that may arise and would like to get them answered by talking to a designated mentor.
+- While I do this I would compile a list of questions that may arise and would like to get them answered by talking to a designated mentor.
 
 
 

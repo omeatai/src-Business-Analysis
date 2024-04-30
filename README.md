@@ -7,7 +7,7 @@
 
 ## Who are Business Analysts?
 
-- Business Analysts were also called System Analysts.
+- Business Analysts were also called Systems Analysts.
 - Business Analysts analyze Business Systems to enable change in an enterprise, by defining needs and recommending solutions that deliver value to stakeholders.
 - Business Analysts gather requirements with respect to any changes to be made to Internal or External Business Systems.
   

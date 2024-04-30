@@ -220,9 +220,9 @@
 
 The role as a Business Analyst in SDLC is:
 
-- To understand the business
-- To understand the requirements, and
-- To become a subject matter expert for the team
+- To understand the AS-IS business
+- To understand the business requirements or changes to be made to the system
+- To become a subject matter expert for the team when implementing changes
 - The BA is the power user of the System
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/546bf94d-d2d3-47bb-9cc1-556f68759618)

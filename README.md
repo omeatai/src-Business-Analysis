@@ -178,15 +178,17 @@
 
 1. Requirements Gathering -
 
-- Business Owner will only give the Business Analyst the scope of the project, but will refer the BA to the SME to gather requirements for the project.
-- The Business Owner will help the BA identify who are the SMEs for which module, and then the BA will set up meetings with them to gather the requirements.
+- The Business Analyst will elicit from the Business Owner the scope of the project.
+- The Business Owner will help the Business Analyst identify who the SMEs are for each module.
+- The Business Owner will refer the Business Analyst to the SME to gather more high-level requirements for the project.
+- The Business Analyst will set up meetings with the SME to gather the requirements.
 - SME - Subject Matter Expert
 
 2. Analysis -
 
-- In the analysis phase, all the requirements that the BA has gathered in the requirement gathering phase are now refined into Functional Requirements Documents, Use Cases or User Stories.
-- At this stage, the Business Requirements Document is created and represented as Functional Requirements Documents, Use Cases or User Stories.
-- The Requirements Freeze Date - This is the last day of the analysis or making changes to the requirements when the stakeholders sign-off on the BRD.
+- At this stage, the Business Requirements Document is created. 
+- All the high-level requirements that the BA has gathered in the requirement gathering phase are now refined into Functional Requirements Documents, Use Cases or User Stories.
+- The Requirements Freeze Date is set - This is the last day of the analysis or making changes to the requirements when the stakeholders sign-off on the BRD.
 
 3. Design -
 

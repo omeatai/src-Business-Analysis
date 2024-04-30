@@ -45,10 +45,10 @@
 ## Successful Traits of a Business Analyst
 
 1. Interpersonal Skills - Ability to be a people person
-2. Communication Skills
-3. Listening Skills
-4. Elicitation Skills - Ability to Ask Questions
-5. Documentation Skills - Ability to Take Notes
+2. Elicitation Skills - Ability to Ask Questions
+3. Documentation Skills - Ability to Take Notes
+4. Communication Skills
+5. Listening Skills
 
 </details>
 

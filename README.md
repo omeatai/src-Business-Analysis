@@ -251,9 +251,20 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 </details>
 
 <details>
-<summary>13. Understanding AS-IN Business </summary>
+<summary>13. Case Study - Understanding AS-IN Business for a Life Issurance Application </summary>
 
+## Case Study - Understanding AS-IN Business for a Life Issurance Application
 
+<img width="960" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/a8039880-5785-46fd-8fa3-f91e4548b51b">
 
+</details>
+
+<details>
+<summary>14. Case Study - BRD Documentation for a Life Issurance Application </summary>
+
+## Case Study - BRD Documentation for a Life Issurance Application
+
+<img width="960" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/f2f33894-dd74-4db9-af82-2338ddf0b18e">
+<img width="960" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/ea91b236-dea7-4bd0-b6ce-c7c219002701">
 
 # #END</details>

@@ -53,9 +53,9 @@
 </details>
 
 <details>
-<summary>5. 2 Teams Business Analyst work with </summary>
+<summary>5. Two Teams Business Analyst work with </summary>
   
-## 2 Teams Business Analyst work with
+## Two Teams Business Analyst work with
 
 1. Business Team (Stakeholders)
 2. IT Project Team

@@ -85,7 +85,8 @@
 
 ### Business Analyst
 
-- Creates Requirements within Business Requirements document represented as - Functional Requirements Document(FRD), Use Cases, or User Stories
+- Elicits and documents High-level Requirements (Scope) within Business Requirements document
+- Analyses scope and breaks down High-level requirements into Functional Requirements Document(FRD), Use Cases, or User Stories
 
 ### Systems Analyst
 

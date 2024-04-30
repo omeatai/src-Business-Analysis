@@ -234,13 +234,12 @@ The role as a Business Analyst in SDLC is:
   
 ## How to understand AS-IN Business
 
-- Read existing business process documents and familiarize with business jargons.
+- Read existing business process documents and familiarize with business processes and jargons.
 - Understand the current system in a sandbox environment.
 
 ### Question-
 
-- If given an opportunity to work with us, how will you get up to speed?
-- If Introduced to a new business domain, what steps would you take to understand the domain?
+If given an opportunity to work with us, how will you get up to speed? If Introduced to a new business domain, what steps would you take to understand the domain?
 
 ### Answer-
 

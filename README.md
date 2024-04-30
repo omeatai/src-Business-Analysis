@@ -3,15 +3,22 @@
 # COURSE
 
 <details>
-<summary>1. Introduction to Business Analysis </summary>
-
-# Introduction to Business Analysis
+<summary>1. Who are Business Analysts? </summary>
 
 ## Who are Business Analysts?
 
 - Business Analysts were also called System Analysts.
 - Business Analysts analyze Business Systems to enable change in an enterprise, by defining needs and recommending solutions that deliver value to stakeholders.
 - Business Analysts gather requirements with respect to any changes to be made to Internal or External Business Systems.
+- 
+</details>
+
+<details>
+<summary>1. Introduction to Business Analysis </summary>
+
+# Introduction to Business Analysis
+
+
 
 ## Types of Business Systems:
 

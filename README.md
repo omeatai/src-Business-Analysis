@@ -158,9 +158,9 @@
 </details>
 
 <details>
-<summary>10. What is SDLC? </summary>
+<summary>10. What is SDLC? What are the stages in SDLC? </summary>
 
-## What is SDLC?
+## What is SDLC? What are the stages in SDLC?
 
 - SDLC is Software/System Developement Life Cycle
 - SDLC is the Life cycle of the Product

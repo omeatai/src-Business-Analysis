@@ -267,4 +267,12 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 <img width="960" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/f2f33894-dd74-4db9-af82-2338ddf0b18e">
 <img width="960" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/ea91b236-dea7-4bd0-b6ce-c7c219002701">
 
+</details>
+
+<details>
+<summary>15. Case Study - Session to Gather Requirements </summary>
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/a58e9988-77e0-4de9-be89-fdf6825dc407)
+
+
 # #END</details>

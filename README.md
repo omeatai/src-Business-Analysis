@@ -272,6 +272,10 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 <details>
 <summary>15. Case Study - Session to Gather Requirements </summary>
 
+## JAD (Joint Application Development) Session
+
+- A JAD Session is a brainstorming session used to get the requirements and is participated by SMEs, The BA Team, Senior Developer and a System Architect.
+
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/efa882aa-1a03-496b-836e-4fc19d5cfeb7)
 
 

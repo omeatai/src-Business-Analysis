@@ -272,7 +272,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 <details>
 <summary>15. Case Study - Session to Gather Requirements </summary>
 
-![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/a58e9988-77e0-4de9-be89-fdf6825dc407)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/efa882aa-1a03-496b-836e-4fc19d5cfeb7)
 
 
 # #END</details>

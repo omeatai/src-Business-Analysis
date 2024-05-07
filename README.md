@@ -305,9 +305,9 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 </details>
 
 <details>
-<summary>17. How do you conduct a JAD Session? - Agenda </summary>
+<summary>17. How do you conduct a JAD Session - Sending Agenda </summary>
 
-## How do you conduct a JAD Session? - Agenda
+## How do you conduct a JAD Session - Sending Agenda
 
 - Before a few days of the JAD session, the BA shall create a JAD session Agenda and send it across to the JAD participants.
 - Include the following to the Agenda:
@@ -324,5 +324,29 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/f501cec2-2d45-4506-92c0-009fe9366d94)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/50615f84-2da7-4805-8af0-00e17679cc37)
+
+</details>
+
+<details>
+<summary>18. How do you conduct a JAD Session - Meeting </summary>
+
+## How do you conduct a JAD Session - Meeting
+
+- On the day of the JAD session, the BA shall introduce all the JAD participants and discuss the goals and objectives of the JAD session.
+- The BA shall review open questions from the previous JAD session if any.
+- The BA shall start the brainstorming sessiona and identify the following for every business requirement:
+  - Business Rules
+  - Functional Requirements
+  - user Interface (UI)  
+- Business Rules
+  - Eg. Only issue insurance to clients below 65 years old.
+  - Eg. 2-day shipping for Prime customers in Amazon.
+  - Eg. Students get 6 months of Free Prime membership in Amazon.
+  - Eg. If Deposit type is Cash, and Deposit amount is above $10000, fill a Form.
+  - Ensure that business rule is not violated in the system.
+  - Business Rules are Business constraints and arise because of any of the following 2 reasons:
+    - Operating procedures created by the business.
+    - Regulations enforced by the Government.
+
 
 # #END</details>

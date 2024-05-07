@@ -270,7 +270,22 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 </details>
 
 <details>
-<summary>15. Case Study - Session to Gather Requirements </summary>
+<summary>15. What does the BRD Identify? </summary>
+
+The Business Requirement Document (BRD) identifies the following:
+
+- The Current Business Problems
+- The Solutions
+- The Systems impacted
+- Assumptions or Dependencies
+- The Scope and Goals of the Project
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/02936c49-bc81-4f6d-8cf4-25195ccbefbe)
+
+</details>
+
+<details>
+<summary>16. Case Study - Session to Gather Requirements </summary>
 
 ## JAD (Joint Application Development) Session
 

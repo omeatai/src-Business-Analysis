@@ -272,7 +272,9 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 <details>
 <summary>15. What does the BRD Identify? </summary>
 
-The Business Requirement Document (BRD) identifies the following:
+## What does the BRD Identify?
+
+### The Business Requirement Document (BRD) identifies the following:
 
 - The Current Business Problems
 - The Solutions

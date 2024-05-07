@@ -334,7 +334,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 - On the day of the JAD session, the BA shall introduce all the JAD participants and discuss the goals and objectives of the JAD session.
 - The BA shall review open questions from the previous JAD session if any.
-- The BA shall start the brainstorming sessiona and identify the following for every business requirement:
+- The BA shall start the brainstorming session and identify the following for every business requirement:
   - Business Rules
   - Functional Requirements
   - user Interface (UI)  
@@ -343,10 +343,14 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Eg. 2-day shipping for Prime customers in Amazon.
   - Eg. Students get 6 months of Free Prime membership in Amazon.
   - Eg. If Deposit type is Cash, and Deposit amount is above $10000, fill a Form.
+  - Eg. When opening investment account, perform AML (Anti-Money Laundering) and KYC (Know Your Customer) checks on customers.
   - Ensure that business rule is not violated in the system.
   - Business Rules are Business constraints and arise because of any of the following 2 reasons:
     - Operating procedures created by the business.
     - Regulations enforced by the Government.
+- Functional Requirements
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/c834f9c3-f79c-4e4a-b658-6a21fd4182c3)
 
 
 # #END</details>

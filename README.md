@@ -337,7 +337,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 - The BA shall start the brainstorming session and identify the following for every business requirement:
   - Business Rules
   - Functional Requirements
-  - user Interface (UI)  
+  - User Interface (UI)  
 - Business Rules
   - Eg. Only issue insurance to clients below 65 years old.
   - Eg. 2-day shipping for Prime customers in Amazon.
@@ -345,7 +345,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Eg. If Deposit type is Cash, and Deposit amount is above $10000, fill a Form.
   - Eg. When opening investment account, perform AML (Anti-Money Laundering) and KYC (Know Your Customer) checks on customers.
   - Ensure that business rule is not violated in the system.
-  - Business Rules are Business constraints and arise because of any of the following 2 reasons:
+  - Business Rules are Business constraints that arise because of any of the following 2 reasons:
     - Operating procedures created by the business.
     - Regulations enforced by the Government.
 - Functional Requirements

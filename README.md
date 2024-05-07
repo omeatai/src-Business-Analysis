@@ -280,7 +280,7 @@ The Business Requirement Document (BRD) identifies the following:
 - Assumptions or Dependencies
 - The Scope and Goals of the Project
 
-![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/02936c49-bc81-4f6d-8cf4-25195ccbefbe)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/efa882aa-1a03-496b-836e-4fc19d5cfeb7)
 
 </details>
 
@@ -293,7 +293,8 @@ The Business Requirement Document (BRD) identifies the following:
 - The Senior Developer and System Architect help to identify the technical feasibility of the requirement.
 - 
 
-![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/efa882aa-1a03-496b-836e-4fc19d5cfeb7)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/4fd7d81d-8e8d-4443-884d-e7cbaf45bd82)
+
 
 
 # #END</details>

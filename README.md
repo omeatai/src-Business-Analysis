@@ -295,10 +295,19 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 - The SMEs give the requirements.
 - The BAs gather the requirements.
 - The Senior Developer and System Architect help to identify the technical feasibility of the requirements.
-- 
+- The BA Roles = Facilitator (Senior Business Analyst) + Scribe
+- The Facilitator - Moderates the JAD Session, Makes sure discussions follows agenda of the meeting, Ensures that the right questions are asked.
+- The Scribe - Documents the requirements that have been finalized.
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/4fd7d81d-8e8d-4443-884d-e7cbaf45bd82)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/097869a0-4575-4dd4-ad98-42b5f06ed09d)
 
+</details>
+
+<details>
+<summary>17. How do you conduct a JAD Session? </summary>
+
+## How do you conduct a JAD Session?
 
 
 # #END</details>

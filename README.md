@@ -292,7 +292,9 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 ## JAD (Joint Application Development) Session
 
 - A JAD Session is a brainstorming session used to get the requirements and is participated by SMEs, The BA Team, Senior Developer and a System Architect.
-- The Senior Developer and System Architect help to identify the technical feasibility of the requirement.
+- The SMEs give the requirements.
+- The BAs gather the requirements.
+- The Senior Developer and System Architect help to identify the technical feasibility of the requirements.
 - 
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/4fd7d81d-8e8d-4443-884d-e7cbaf45bd82)

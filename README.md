@@ -309,5 +309,14 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 ## How do you conduct a JAD Session?
 
+- Before a few days of the JAD session, the BA shall create a JAD session Agenda and send it across to the JAD participants.
+- Include the following to the Agenda:
+   - Meeting Title, Meeting Date, Meeting Time (1-2 hours), Location (which conference room), participants (add all invitee names), Open Questions, Goals and Objectives.
+- Lockup session - All day session (morning to Evening)
+- Open Questions - Questions SMEs have not yet answered
+- Goals and Objectives come from the business requirements
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/f501cec2-2d45-4506-92c0-009fe9366d94)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/50615f84-2da7-4805-8af0-00e17679cc37)
 
 # #END</details>

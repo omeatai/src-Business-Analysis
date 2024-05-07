@@ -305,9 +305,9 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 </details>
 
 <details>
-<summary>17. How do you conduct a JAD Session? </summary>
+<summary>17. How do you conduct a JAD Session? - Agenda </summary>
 
-## How do you conduct a JAD Session?
+## How do you conduct a JAD Session? - Agenda
 
 - Before a few days of the JAD session, the BA shall create a JAD session Agenda and send it across to the JAD participants.
 - Include the following to the Agenda:

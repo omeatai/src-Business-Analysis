@@ -287,9 +287,9 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 </details>
 
 <details>
-<summary>16. Case Study - Session to Gather Requirements </summary>
+<summary>16. What is JAD (Joint Application Development) Session? </summary>
 
-## JAD (Joint Application Development) Session
+## What is JAD (Joint Application Development) Session?
 
 - A JAD Session is a brainstorming session used to get the requirements and is participated by SMEs, The BA Team, Senior Developer and a System Architect.
 - The SMEs give the requirements.

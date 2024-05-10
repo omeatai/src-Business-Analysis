@@ -415,6 +415,9 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - Underneath that I need two (2) hyperlinks.
       - The first link says: "New user registration"
       - The second link says: "Forgot user ID?"
+    - 6. What happens when you click new user registration?
+      - When you click on the link, it's going to open up a new page called "New User Registration" in the same Window.
+    - 7. What are the fields that should be displayed on the page?
   - Ability for the user to login
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)

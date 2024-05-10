@@ -407,6 +407,9 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - Answer: I want the link to be placed on the left of the "Locations" hyperlink on the homepage menu.
     - 3. What happens when you click on the link?
       - Answer: When you click on the link it should take you to another page called "online banking".
+    - 4. Should the link open on the same page or on another page?
+      - answer: It should open on the same page.
+    - 5. What should the page display? 
   - Ability for the user to login
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)

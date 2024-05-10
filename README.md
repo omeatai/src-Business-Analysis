@@ -405,7 +405,8 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - Answer: I want a link called "online banking" to be displayed on the home page.
     - 2. Where do you want the registration link to be displayed?
       - Answer: I want the link to be placed on the left of the "Locations" hyperlink on the homepage menu.
-    - 3. What happens when you click on the link? 
+    - 3. What happens when you click on the link?
+      - Answer: When you click on the link it should take you to another page called "online banking".
   - Ability for the user to login
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)

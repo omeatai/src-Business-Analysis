@@ -354,10 +354,27 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Eg. System should allow the user to edit recurring payment.
   - Eg. System should allow the user to export data to an Excel Spreadsheet.
   - Any function that could be done in the system is classified as a functional requirement.
-- User Interface (UI)
-  -   
+- User Interface (UI) Requirements
+  - The layout of the data on the screen
+  - The entire screen that you see is your user interface.
+  - Different Elements used to design a User Interface:
+    - Text Box - It allows the user to enter free form text.
+    - Dropdown menu - It allows the user to have multiple options that they can select from.
+    - Radio Buttons - In Radiobutton you can choose only one option.
+    - Check Boxes - In checkbox, you can choose multiple options.
+    - Hyperlink -When you click on it, something happens, an action is performed.
+    - Command Button - It executes a command and triggers some action.
+- Wireframe - Screen mockup
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/c834f9c3-f79c-4e4a-b658-6a21fd4182c3)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/224c56b8-f720-42ac-b261-3ff07efc7740)
+
+</details>
+
+<details>
+<summary>19. Types of Requirements </summary>
+
+## Types of Requirements
 
 
 # #END</details>

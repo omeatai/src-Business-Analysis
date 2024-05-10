@@ -396,6 +396,11 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 ## How to conduct a JAD Session - Gathering Requirements
 
+- Always ask Open ended Questions.
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)
+
+
 # #END</details>
 
 

@@ -415,7 +415,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - It should open on the same page.
     - 5. What should the page display?
       - Answer:
-      - the first field is the user ID. It's a text box.
+      - The first field is the user ID. It's a text box.
       - Underneath that, I need a command button that says Continue.
       - Underneath that I need two (2) hyperlinks.
       - The first link says: "New user registration"

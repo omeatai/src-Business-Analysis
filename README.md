@@ -427,11 +427,16 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - The Next field I want is for Security question. It's a drop down.
       - The Next field I want is for Security answer. It's a ~~radio button~~ text box.
       - Underneath that I need two command buttons. One for Register and the other for Cancel.
+    - Is User ID field a required field? What is the data type? What is data length?
+      - yes, It's a required field.
+      - The Data type is alphanumeric data.
+      - The length is minimum eight, maximum 16.
 
   - Ability for the user to login
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/b0e45db2-e37b-4c17-804b-2157a57c9680)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/74a51b8c-a2f8-40a3-94f1-9af4b3c2c767)
 
 
 

@@ -401,15 +401,15 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Open-Ended Question: What would you like to drink?
 - Take Notes while discussing the business requirements
   - Ability for the user to register
-    + 1. How should the user register?
+    - 1. How should the user register?
       - I want a link called "online banking" to be displayed on the home page.
-    + 2. Where do you want the registration link to be displayed?
+    - 2. Where do you want the registration link to be displayed?
       - I want the link to be placed on the left of the "Locations" hyperlink on the homepage menu.
-    + 3. What happens when you click on the link?
+    - 3. What happens when you click on the link?
       - When you click on the link it should take you to another page called "online banking".
-    + 4. Should the link open on the same page or on another page?
+    - 4. Should the link open on the same page or on another page?
       - It should open on the same page.
-    + 5. What should the page display?
+    - 5. What should the page display?
       - The first field is the user ID. It's a text box.
       - Underneath that, I need a command button that says Continue.
       - Underneath that I need two (2) hyperlinks.

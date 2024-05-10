@@ -368,13 +368,29 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/c834f9c3-f79c-4e4a-b658-6a21fd4182c3)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/224c56b8-f720-42ac-b261-3ff07efc7740)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/9b0b9140-1de7-4cd7-87c2-b93c57cfed71)
 
 </details>
 
 <details>
-<summary>19. Types of Requirements </summary>
+<summary>19. How to conduct a JAD Session - Types of Requirements </summary>
 
-## Types of Requirements
+## How to conduct a JAD Session - Types of Requirements
 
+- Functional Requirements
+- Non-Functional Requirements - Any requirements which does not indicate a functionality of the system is a non-functional requirement.
+  - UI Requirements - How the fields are laid out. It's how the screen is displayed.
+  - Performance Requirements - How fast the system works, performance of the system.
+  - Scalability Requirements - Scalability refers to how much load, how much volume the system can handle.
+  - Security Requirements - Database has to be secured and no one should be able to access the database if they are not authorized to access.
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/d3f3a965-a2f6-4202-9600-b0874358c208)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/ca65e10f-e4c1-4717-a51c-15de10c39eb3)
 
 # #END</details>
+
+
+
+
+
+

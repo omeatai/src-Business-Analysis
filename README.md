@@ -425,7 +425,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - The next field I want is gender. I want two (2) radio button options as MALE and FEMALE.
       - The next field I want is Interests. I want four (4) checkbox options: Sports, Travel, Movies, and Reading.
       - The Next field I want is for Security question. It's a drop down.
-      - The Next field I want is for Security answer. It's a radio button
+      - The Next field I want is for Security answer. It's a ~~radio button~~ text box.
       - Underneath that I need two command buttons. One for Register and the other for Cancel.
 
   - Ability for the user to login

@@ -418,6 +418,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Ability for the user to login
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/6093d59f-aa5b-4262-a167-9a2d44be2873)
 
 
 # #END</details>

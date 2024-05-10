@@ -401,9 +401,11 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Open-Ended Question: What would you like to drink?
 - Take Notes while discussing the business requirements
   - Ability for the user to register
-    - How should they register? => I want a link called "online banking" to be displayed on the home page.
-    - Where do you want the link to register to be displayed?
-    - What happens when you click on the link? 
+    - Question: How should they register?
+    - Answer: I want a link called "online banking" to be displayed on the home page.
+    
+    - Question: Where do you want the link to register to be displayed?
+    - Question: What happens when you click on the link? 
   - Ability for the user to login
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)

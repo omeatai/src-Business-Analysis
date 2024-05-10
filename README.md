@@ -417,7 +417,17 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - The second link says: "Forgot user ID?"
     - 6. What happens when you click new user registration?
       - When you click on the link, it's going to open up a new page called "New User Registration" in the same Window.
-    - 7. What are the fields that should be displayed on the page?
+    - 7. What are the data fields that should be displayed on the page?
+      - The first field I want is user ID. That's a text box.
+      - The next field I want is password, and that is again, a text box.
+      - I need another text box for re-enter password.
+      - I need another text box for SSN.
+      - The next field I want is gender. I want two (2) radio button options as MALE and FEMALE.
+      - The next field I want is Interests. I want four (4) checkbox options: Sports, Travel, Movies, and Reading.
+      - The Next field I want is for Security question. It's a drop down.
+      - The Next field I want is for Security answer. It's a radio button
+      - Underneath that I need two command buttons. One for Register and the other for Cancel.
+
   - Ability for the user to login
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)

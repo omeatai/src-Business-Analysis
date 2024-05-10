@@ -378,6 +378,8 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 ## How to conduct a JAD Session - Types of Requirements
 
 - Functional Requirements
+  - Requirements which indicates a function that can be done within the system.
+  - Any function that could be done in the system is classified as a functional requirement.
 - Non-Functional Requirements - Any requirements which does not indicate a functionality of the system is a non-functional requirement.
   - UI Requirements - How the fields are laid out. It's how the screen is displayed.
   - Performance Requirements - How fast the system works, performance of the system.

@@ -389,6 +389,13 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/d3f3a965-a2f6-4202-9600-b0874358c208)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/ca65e10f-e4c1-4717-a51c-15de10c39eb3)
 
+</details>
+
+<details>
+<summary>20. How to conduct a JAD Session - Gathering Requirements </summary>
+
+## How to conduct a JAD Session - Gathering Requirements
+
 # #END</details>
 
 

@@ -349,6 +349,13 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
     - Operating procedures created by the business.
     - Regulations enforced by the Government.
 - Functional Requirements
+  - Requirements which indicates a function that can be done within the system.
+  - Eg. System should allow the user to set up recurring payments.
+  - Eg. System should allow the user to edit recurring payment.
+  - Eg. System should allow the user to export data to an Excel Spreadsheet.
+  - Any function that could be done in the system is classified as a functional requirement.
+- User Interface (UI)
+  -   
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/c834f9c3-f79c-4e4a-b658-6a21fd4182c3)
 

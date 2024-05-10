@@ -427,7 +427,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - The Next field I want is for Security question. It's a drop down.
       - The Next field I want is for Security answer. It's a ~~radio button~~ text box.
       - Underneath that I need two command buttons. One for Register and the other for Cancel.
-    - Is User ID field a required field? What is the data type? What is data length?
+    - 8. Is User ID field a required field? What is the data type? What is data length?
       - yes, It's a required field.
       - The Data type is alphanumeric data.
       - The length is minimum eight, maximum 16.

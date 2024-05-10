@@ -401,7 +401,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Open-Ended Question: What would you like to drink?
 - Take Notes while discussing the business requirements
   - Ability for the user to register
-    - 1. How should they register?
+    - 1. How should the user register?
       - Answer: I want a link called "online banking" to be displayed on the home page.
     - 2. Where do you want the link to register to be displayed?
     - 3. What happens when you click on the link? 

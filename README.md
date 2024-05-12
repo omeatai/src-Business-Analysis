@@ -403,7 +403,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Ability for the user to register
     - 1. How should the user register?
       - I want a link called "online banking" to be displayed on the home page.
-    &emsp;
+    <br> &emsp; <br>
     - 2. Where do you want the registration link to be displayed?
       - I want the link to be placed on the left of the "Locations" hyperlink on the homepage menu.
     - 3. What happens when you click on the link?

@@ -403,21 +403,26 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Ability for the user to register
     - 1. How should the user register?
       - I want a link called "online banking" to be displayed on the home page.
-    <br> &emsp; <br>
+    <br> &ensp; <br>
     - 2. Where do you want the registration link to be displayed?
       - I want the link to be placed on the left of the "Locations" hyperlink on the homepage menu.
+    <br> &ensp; <br>
     - 3. What happens when you click on the link?
       - When you click on the link it should take you to another page called "online banking".
+    <br> &ensp; <br> 
     - 4. Should the link open on the same page or on another page?
       - It should open on the same page.
+    <br> &ensp; <br>
     - 5. What should the page display?
       - The first field is the user ID. It's a text box.
       - Underneath that, I need a command button that says Continue.
       - Underneath that I need two (2) hyperlinks.
       - The first link says: "New user registration"
       - The second link says: "Forgot user ID?"
+    <br> &ensp; <br>
     - 6. What happens when you click new user registration?
       - When you click on the link, it's going to open up a new page called "New User Registration" in the same Window.
+    <br> &ensp; <br>
     - 7. What are the data fields that should be displayed on the page?
       - The first field I want is user ID. That's a text box.
       - The next field I want is password, and that is again, a text box.
@@ -428,6 +433,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - The Next field I want is for Security question. It's a drop down.
       - The Next field I want is for Security answer. It's a ~~radio button~~ text box.
       - Underneath that I need two command buttons. One for Register and the other for Cancel.
+    <br> &ensp; <br>
     - 8. Is User ID field a required field? What is the data type? What is data length?
       - yes, It's a required field.
       - The Data type is alphanumeric data.

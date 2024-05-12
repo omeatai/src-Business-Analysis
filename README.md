@@ -401,7 +401,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Open-Ended Question: What would you like to drink?
 - Take Notes while discussing the business requirements
   - Ability for the user to register
-    - 1. How should the user register?
+    1. How should the user register?
       - I want a link called "online banking" to be displayed on the home page.
     <br> &ensp; <br>
     - 2. Where do you want the registration link to be displayed?
@@ -438,6 +438,9 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - yes, It's a required field.
       - The Data type is alphanumeric data.
       - The length is minimum eight, maximum 16.
+    <br> &ensp; <br>
+    - 9. Is the password field a required field? What is the data type? What is data length?
+      -
 
   - Ability for the user to login
 

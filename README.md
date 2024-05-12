@@ -401,7 +401,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
   - Open-Ended Question: What would you like to drink?
 - Take Notes while discussing the business requirements
   - Ability for the user to register
-    1. How should the user register?
+    - 1. How should the user register?
       - I want a link called "online banking" to be displayed on the home page.
     <br> &ensp; <br>
     - 2. Where do you want the registration link to be displayed?
@@ -439,9 +439,22 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - The Data type is alphanumeric data.
       - The length is minimum eight, maximum 16.
     <br> &ensp; <br>
-    - 9. Is the password field a required field? What is the data type? What is data length?
-      -
-
+    - 9. Is the password field a required field? What is the data type? What is data length? Is the data encrypted?
+      - yes, It's a required field.
+      - The Data type is alphanumeric data.
+      - The length is minimum eight, maximum 16.
+      - yes, The data should be encryped and not in plain-text.
+    <br> &ensp; <br>
+    - 10. Is the re-enter password field a required field? What is the data type? What is data length? Is the data encrypted?
+      - yes, It's a required field.
+      - The Data type is alphanumeric data.
+      - The length is minimum eight, maximum 16.
+      - yes, The data should be encryped and not in plain-text.
+    <br> &ensp; <br>
+    - 11. Is the SSN field a required field? What is the data type? What is data length?
+      - yes, It's a required field.
+      - The Data type is alphanumeric data.
+      - The length is minimum eight, maximum 16.
   - Ability for the user to login
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)

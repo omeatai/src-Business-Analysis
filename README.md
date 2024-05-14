@@ -437,24 +437,35 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
     - 8. Is User ID field a required field? What is the data type? What is data length?
       - yes, It's a required field.
       - The Data type is alphanumeric data.
-      - The length is minimum eight, maximum 16.
+      - The length is minimum 8, maximum 16.
     <br> &ensp; <br>
     - 9. Is the password field a required field? What is the data type? What is data length? Is the data encrypted?
       - yes, It's a required field.
       - The Data type is alphanumeric data.
-      - The length is minimum eight, maximum 16.
+      - The length is minimum 8, maximum 16.
       - yes, The data should be encryped and not in plain-text.
     <br> &ensp; <br>
     - 10. Is the re-enter password field a required field? What is the data type? What is data length? Is the data encrypted?
       - yes, It's a required field.
       - The Data type is alphanumeric data.
-      - The length is minimum eight, maximum 16.
+      - The length is minimum 8, maximum 16.
       - yes, The data should be encryped and not in plain-text.
     <br> &ensp; <br>
     - 11. Is the SSN field a required field? What is the data type? What is data length?
       - yes, It's a required field.
       - The Data type is alphanumeric data.
-      - The length is minimum eight, maximum 16.
+      - The length is minimum 9, maximum 16.
+      - The first 5 digits should be encrypted, while the last 4 digits will be in plain text.
+    - 12. Is the Gender field a required field? What is the data type? What are the options? Is there any default selection?
+        - No, It's not a required field. (optional)
+        - The Data type is options in a radio button. 
+        - The options are male and female.
+        - No, there are no default selections.
+    - 13. Is the Interest field a required field? What is the data type? What are the options? Is there any default selection?
+          - No, It's not a required field. (optional)
+          - The Data type is options in a check box. 
+          - The options are sports, travel, movies and reading.
+          - No, there are no default selections.
   - Ability for the user to login
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)

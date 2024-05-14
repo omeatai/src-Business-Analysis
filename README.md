@@ -464,10 +464,10 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
         - No, there are no default selections.
     <br> &ensp; <br>
     - 13. Is the Interest field a required field? What is the data type? What are the options? Is there any default selection?
-          - No, It's not a required field. (optional)
-          - The Data type is options in a check box. 
-          - The options are sports, travel, movies and reading.
-          - No, there are no default selections.
+        - No, It's not a required field. (optional)
+        - The Data type is options in a check box. 
+        - The options are sports, travel, movies and reading.
+        - No, there are no default selections.
     <br> &ensp; <br>
   - Ability for the user to login
 

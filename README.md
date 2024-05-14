@@ -456,16 +456,19 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
       - The Data type is alphanumeric data.
       - The length is minimum 9, maximum 16.
       - The first 5 digits should be encrypted, while the last 4 digits will be in plain text.
+    <br> &ensp; <br> 
     - 12. Is the Gender field a required field? What is the data type? What are the options? Is there any default selection?
         - No, It's not a required field. (optional)
         - The Data type is options in a radio button. 
         - The options are male and female.
         - No, there are no default selections.
+    <br> &ensp; <br>
     - 13. Is the Interest field a required field? What is the data type? What are the options? Is there any default selection?
           - No, It's not a required field. (optional)
           - The Data type is options in a check box. 
           - The options are sports, travel, movies and reading.
           - No, there are no default selections.
+    <br> &ensp; <br>
   - Ability for the user to login
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)

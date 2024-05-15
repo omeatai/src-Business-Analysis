@@ -463,10 +463,20 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
         - The options are male and female.
         - No, there are no default selections.
     <br> &ensp; <br>
-    - 13. Is the Interest field a required field? What is the data type? What are the options? Is there any default selection?
+    - 13. Is the Interest field a required field? What is the data type?
         - No, It's not a required field. (optional)
         - The Data type is options in a check box. 
         - The options are sports, travel, movies and reading.
+        - No, there are no default selections.
+    <br> &ensp; <br>
+    - 14. Is the Security Question field a required field? What is the data type? What are the options to be displayed in the dropdown?
+        - yes, It's a required field.
+        - The Data type is options in a dropdown menu. 
+        - The options are: your mother's maiden name, your first pet's name, your best friend's name in school, What city were you born? Where did you meet your spouse for the first time?
+
+So they would have five questions or four questions and they'll give you those questions.
+
+So you write down those questions.
         - No, there are no default selections.
     <br> &ensp; <br>
   - Ability for the user to login

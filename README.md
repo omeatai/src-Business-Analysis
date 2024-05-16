@@ -436,24 +436,24 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
     <br> &ensp; <br>
     - 8. Is User ID field a required field? What is the data type? What is data length?
       - yes, It's a required field.
-      - The Data type is alphanumeric data.
+      - The Data type is alphanumeric data in a text box input.
       - The length is minimum 8, maximum 16.
     <br> &ensp; <br>
     - 9. Is the password field a required field? What is the data type? What is data length? Is the data encrypted?
       - yes, It's a required field.
-      - The Data type is alphanumeric data.
+      - The Data type is alphanumeric data in a text box input.
       - The length is minimum 8, maximum 16.
       - yes, The data should be encryped and not in plain-text.
     <br> &ensp; <br>
     - 10. Is the re-enter password field a required field? What is the data type? What is data length? Is the data encrypted?
       - yes, It's a required field.
-      - The Data type is alphanumeric data.
+      - The Data type is alphanumeric data in a text box input.
       - The length is minimum 8, maximum 16.
       - yes, The data should be encryped and not in plain-text.
     <br> &ensp; <br>
     - 11. Is the SSN field a required field? What is the data type? What is data length?
       - yes, It's a required field.
-      - The Data type is alphanumeric data.
+      - The Data type is alphanumeric data  in a text box input.
       - The length is minimum 9, maximum 16.
       - The first 5 digits should be encrypted, while the last 4 digits will be in plain text.
     <br> &ensp; <br> 
@@ -473,11 +473,11 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
         - yes, It's a required field.
         - The Data type is options in a dropdown menu. 
         - The options are: your mother's maiden name, your first pet's name, your best friend's name in school, What city were you born? Where did you meet your spouse for the first time?
-
-So they would have five questions or four questions and they'll give you those questions.
-
-So you write down those questions.
-        - No, there are no default selections.
+    <br> &ensp; <br>
+    - 15. Is the Security Answer field a required field? What is the data type? What are the options to be displayed in the dropdown?
+        - yes, It's a required field.
+        - The Data type is alphanumeric data in a text box input.
+        - The length is minimum 3, maximum 100.
     <br> &ensp; <br>
   - Ability for the user to login
 

@@ -494,8 +494,17 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
             - If the user has just entered alphanumeric data, but only 7 characters, that's an error message.
         - The System performs the following specific validations:
           - Is the user ID unique?
-          - 
-
+          - Does the re-entered password match the entered password?
+          - Is the entered SSN associated with an active account in the bank? Is the SSN associated with an active user ID?
+        - What happens if one of them is invalid?
+          - So if something is invalid, you remain on the same page. You don't go anywhere.
+          - You highlight the field which had errors in red and you display the error message.
+          - What is the error message?
+            - Why don't you email me all the validations that can go wrong and I will respond back with error messages, because I need to think about the verbiage of the error message. 
+        - What happens if everything is valid?
+          - It should directly log the User in. 
+          - What is the landing page after the User is loggedin?
+            - If all the validations pass, display the account summary page. 
     <br> &ensp; <br>
   - Ability for the user to login
 

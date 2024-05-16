@@ -469,15 +469,33 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
         - The options are sports, travel, movies and reading.
         - No, there are no default selections.
     <br> &ensp; <br>
-    - 14. Is the Security Question field a required field? What is the data type? What are the options to be displayed in the dropdown?
+    - 14. Is the Security Question field a required field? What is the data type? What are the options to be displayed in the dropdown? What is the sort order of those five options? Is there any default selection?
         - yes, It's a required field.
         - The Data type is options in a dropdown menu. 
         - The options are: your mother's maiden name, your first pet's name, your best friend's name in school, What city were you born? Where did you meet your spouse for the first time?
+        - Just sort them alphabetically.
+        - No, there are no default selections.
     <br> &ensp; <br>
-    - 15. Is the Security Answer field a required field? What is the data type? What are the options to be displayed in the dropdown?
+    - 15. Is the Security Answer field a required field? hat is the data type? What is data length?
         - yes, It's a required field.
         - The Data type is alphanumeric data in a text box input.
-        - The length is minimum 3, maximum 100.
+        - The length is minimum 2, maximum 256.
+    <br> &ensp; <br>
+    - 16. What happens when you click the Cancel button?
+        - The entered data gets discarded.
+        - And navigates the user to online banking page.
+    <br> &ensp; <br>
+     - 17. What happens when you click the Register button?
+        - The System performs the following generic validations:
+          - Are all the required data entered?
+          - Are the entered data valid? For example:
+            - We want to make sure the data type, if it's alphanumeric, it has to be alphanumeric.
+            - When we say minimum 8 and maximum 16, it has the right data length.
+            - If the user has just entered alphanumeric data, but only 7 characters, that's an error message.
+        - The System performs the following specific validations:
+          - Is the user ID unique?
+          - 
+
     <br> &ensp; <br>
   - Ability for the user to login
 

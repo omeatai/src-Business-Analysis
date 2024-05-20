@@ -551,7 +551,13 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/cf669964-ae92-4423-a105-150387bbc7ee)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/e46a12b7-e1ca-4f33-9a33-0d43e03883fe)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/23b26693-91f1-4dc6-84bc-6617f0b4a5ee)
+
+<img width="468" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/44f4bc45-4805-4c19-80f5-1bce97ef0250">
+
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/ff3e2d2a-a92d-4255-9e3d-bb2ee74ff0f9)
+
+<img width="475" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/b4b4fdd6-d3b3-4f10-bb9d-af490fde0b82">
+
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/521b63ce-128c-4b46-b1d2-a1b369465dde)
 
 

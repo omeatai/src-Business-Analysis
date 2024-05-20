@@ -512,7 +512,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
     - 1. What happens when the user enters the user ID and clicks continue?
       - So the system is going to validate the data.
       - If the user ID is valid, it's going to display the password page in the same window.
-      - If it's invalid, it's going to display an error message on the same page and the error message is invalid.
+      - If it's invalid, it's going to display an error message on the same page and the error message is: User ID is invalid.
     <br> &ensp; <br>
     - 2. What should the password page display?
       - So the password page is going to display a password Text input box with a Login button.
@@ -520,9 +520,16 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
     - 3. What happens when the user enters password and clicks login?
       - So when the user enters password clicks login, the system validates the password.
       - If the password is valid, it displays the account summary page.
-      - If the password is invalid, it displays the error message and the error message is invalid: (Password Please re-enter).
-      - And if they enter wrong password three times, the system should lock the account.
-    <br> &ensp; <br> - 
+      - If the password is invalid, it displays the error message and the error message is: Invalid Password, Please re-enter.
+      - And if they enter wrong password three (3) times, the system should lock the account.
+      - The account will be locked for an indefinite period until it is unlocked by calling the customer care or by the User.
+    <br> &ensp; <br>
+    - 4. If the account is locked, how can the user unlock their account?
+      - The customer does not have an ability to unlock the account themselves on the web page.
+      - They will need to call the customer care and verify who they are.
+      - OR
+      - They would be able to unlock their account by answering some sensitive questions related to their account on the web.
+    <br> &ensp; <br>
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/b0e45db2-e37b-4c17-804b-2157a57c9680)

@@ -1,6 +1,6 @@
 # Business-Analysis
 
-# COURSE
+# COURSE - Business Analysis "A to Z" Masterclass
 
 <details>
 <summary>1. Who are Business Analysts? </summary>

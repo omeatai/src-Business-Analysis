@@ -560,6 +560,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/521b63ce-128c-4b46-b1d2-a1b369465dde)
 
+<img width="487" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/211ce591-07c8-4433-882d-e5868de9d59d">
 
 
 # #END</details>

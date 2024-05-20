@@ -543,21 +543,22 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 ## Functional Requirements Document (FRD) - Creating Document
 
-- What is Staging Environment?
-  - Staging environment is a replica of the Production Environment with real Data.
-  - Sandbox has Test or Dummy Data. 
+### What is Staging Environment?
+
+- Staging environment is a replica of the Production Environment with real Data.
+- Sandbox has Test or Dummy Data. 
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/92c9d187-7348-497d-8f9f-363b3f43b43d)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/cf669964-ae92-4423-a105-150387bbc7ee)
 
-- FRD Table of Contents
+### FRD Table of Contents
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/e46a12b7-e1ca-4f33-9a33-0d43e03883fe)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/23b26693-91f1-4dc6-84bc-6617f0b4a5ee)
 
 <img width="484" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/1136a0bb-8ce2-4e55-bdcb-3680e8fd4c3c">
 
-- Scope, Systems Impacted, Assumptions/Dependencies 
+### Scope, Systems Impacted, Assumptions/Dependencies 
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/ff3e2d2a-a92d-4255-9e3d-bb2ee74ff0f9)
 
@@ -567,7 +568,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 <img width="487" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/211ce591-07c8-4433-882d-e5868de9d59d">
 
-- Requirements
+### Requirements
 
 
 # #END</details>

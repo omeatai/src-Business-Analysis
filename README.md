@@ -485,7 +485,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
         - The entered data gets discarded.
         - And navigates the user to online banking page.
     <br> &ensp; <br>
-     - 17. What happens when you click the Register button?
+    - 17. What happens when you click the Register button?
         - The System performs the following generic validations:
           - Are all the required data entered?
           - Are the entered data valid? For example:
@@ -496,21 +496,38 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
           - Is the user ID unique?
           - Does the re-entered password match the entered password?
           - Is the entered SSN associated with an active account in the bank? Is the SSN associated with an active user ID?
-        - What happens if one of them is invalid?
+    <br> &ensp; <br>
+    - 18. What happens if one of them is invalid?
           - So if something is invalid, you remain on the same page. You don't go anywhere.
           - You highlight the field which had errors in red and you display the error message.
           - What is the error message?
             - Why don't you email me all the validations that can go wrong and I will respond back with error messages, because I need to think about the verbiage of the error message. 
-        - What happens if everything is valid?
+    <br> &ensp; <br>
+    - 19. What happens if everything is valid?
           - It should directly log the User in. 
           - What is the landing page after the User is loggedin?
             - If all the validations pass, display the account summary page. 
     <br> &ensp; <br>
   - Ability for the user to login
+    - 1. What happens when the user enters the user ID and clicks continue?
+      - So the system is going to validate the data.
+      - If the user ID is valid, it's going to display the password page in the same window.
+      - If it's invalid, it's going to display an error message on the same page and the error message is invalid.
+    <br> &ensp; <br>
+    - 2. What should the password page display?
+      - So the password page is going to display a password Text input box with a Login button.
+    <br> &ensp; <br>
+    - 3. What happens when the user enters password and clicks login?
+      - So when the user enters password clicks login, the system validates the password.
+      - If the password is valid, it displays the account summary page.
+      - If the password is invalid, it displays the error message and the error message is invalid: (Password Please re-enter).
+      - And if they enter wrong password three times, the system should lock the account.
+    <br> &ensp; <br> - 
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/5193ed92-c8e6-4eaa-85f8-1c5ef4c4f225)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/b0e45db2-e37b-4c17-804b-2157a57c9680)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/74a51b8c-a2f8-40a3-94f1-9af4b3c2c767)
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/4a9da053-c655-4ea6-95c6-74f3a3c61aa8)
 
 
 

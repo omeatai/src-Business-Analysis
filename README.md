@@ -536,6 +536,13 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/74a51b8c-a2f8-40a3-94f1-9af4b3c2c767)
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/4a9da053-c655-4ea6-95c6-74f3a3c61aa8)
 
+</details>
+
+<details>
+<summary>20. Functional Requirements Document (FRD) - Creating Document </summary>
+
+## Functional Requirements Document (FRD) - Creating Document
+
 
 
 # #END</details>

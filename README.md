@@ -564,11 +564,13 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 <img width="475" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/b4b4fdd6-d3b3-4f10-bb9d-af490fde0b82">
 
+### #FRD Requirements
+
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/521b63ce-128c-4b46-b1d2-a1b369465dde)
 
 <img width="487" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/211ce591-07c8-4433-882d-e5868de9d59d">
 
-### #Requirements
+
 
 
 # #END</details>

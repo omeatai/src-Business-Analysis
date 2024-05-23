@@ -250,6 +250,8 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 </details>
 
+### [AS-IN Business for a Life Issurance Application](https://docs.google.com/document/d/1NkTEwEJn8GEE4OeF8NJOUKHY6t_3nQqZ/edit?usp=sharing&ouid=112333299947451059031&rtpof=true&sd=true)
+
 <details>
 <summary>13. Case Study - Understanding AS-IN Business for a Life Issurance Application </summary>
 
@@ -258,6 +260,8 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 <img width="960" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/a8039880-5785-46fd-8fa3-f91e4548b51b">
 
 </details>
+
+### [Business Requirements Document (BRD)](https://docs.google.com/document/d/1gIssWdx96Tj6eLIrS-BxiYkndnON99EA/edit?usp=sharing&ouid=112333299947451059031&rtpof=true&sd=true)
 
 <details>
 <summary>14. Case Study - BRD Documentation for a Life Issurance Application </summary>
@@ -538,7 +542,7 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 </details>
 
-## [Functional Requirements Document (FRD)](https://docs.google.com/document/d/1z9-34ANjGXKJt2-FLcNixNhd_Fu-2FGN/edit?usp=sharing&ouid=112333299947451059031&rtpof=true&sd=true)
+### [Functional Requirements Document (FRD)](https://docs.google.com/document/d/1z9-34ANjGXKJt2-FLcNixNhd_Fu-2FGN/edit?usp=sharing&ouid=112333299947451059031&rtpof=true&sd=true)
 
 <details>
 <summary>21. Functional Requirements Document (FRD) - What is Staging Environment? </summary>

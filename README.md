@@ -599,6 +599,39 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 <img width="675" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/e4b0a0cb-a420-4c8b-9b86-bf1e410a07d9">
 
+<img width="602" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/02313261-9079-425f-834b-966a7ec228f5">
+
+</details>
+
+<details>
+<summary>24C. Functional Requirements Document (FRD) - Functional Requirements for New User Registration Page  </summary>
+
+## Functional Requirements Document (FRD) - Functional Requirements for New User Registration Page 
+
+<img width="558" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/a6cca965-9a92-4f51-b7f8-732293a1b3b1">
+
+<img width="538" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/86e1f73f-05ff-4ba1-9a22-a49dcd27132a">
+
+<img width="541" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/336d6d33-4658-4823-801d-0694c4683e48">
+
+</details>
+
+<details>
+<summary>24D. Functional Requirements Document (FRD) - Functional Requirements for Password Page  </summary>
+
+## Functional Requirements Document (FRD) - Functional Requirements for Password Page 
+
+<img width="602" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/03410907-e862-406b-813a-2da0e687e29d">
+
+<img width="570" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/1221de97-dabe-447b-aff8-d06501e98d88">
+
+</details>
+
+<details>
+<summary>25. Functional Requirements Document (FRD) - F  </summary>
+
+## Functional Requirements Document (FRD) - F
+
 
 # #END</details>
 

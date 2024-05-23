@@ -538,6 +538,8 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 </details>
 
+## [Functional Requirements Document (FRD)](https://docs.google.com/document/d/1z9-34ANjGXKJt2-FLcNixNhd_Fu-2FGN/edit?usp=sharing&ouid=112333299947451059031&rtpof=true&sd=true)
+
 <details>
 <summary>21. Functional Requirements Document (FRD) - What is Staging Environment? </summary>
 

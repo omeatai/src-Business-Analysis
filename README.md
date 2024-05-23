@@ -230,9 +230,9 @@ The role as a Business Analyst in SDLC is:
 </details>
 
 <details>
-<summary>12. How to understand AS-IN Business </summary>
+<summary>12. How to understand AS-IS Business </summary>
   
-## How to understand AS-IN Business
+## How to understand AS-IS Business
 
 - Read existing business process documents and familiarize with business processes and jargons.
 - Understand the current system in a sandbox environment.
@@ -250,12 +250,12 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 
 </details>
 
-### [AS-IN Business for a Life Issurance Application](https://docs.google.com/document/d/1NkTEwEJn8GEE4OeF8NJOUKHY6t_3nQqZ/edit?usp=sharing&ouid=112333299947451059031&rtpof=true&sd=true)
+### [AS-IS Business for a Life Issurance Application](https://docs.google.com/document/d/1NkTEwEJn8GEE4OeF8NJOUKHY6t_3nQqZ/edit?usp=sharing&ouid=112333299947451059031&rtpof=true&sd=true)
 
 <details>
-<summary>13. Case Study - Understanding AS-IN Business for a Life Issurance Application </summary>
+<summary>13. Case Study - Understanding AS-IS Business for a Life Issurance Application </summary>
 
-## Case Study - Understanding AS-IN Business for a Life Issurance Application
+## Case Study - Understanding AS-IS Business for a Life Issurance Application
 
 <img width="960" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/a8039880-5785-46fd-8fa3-f91e4548b51b">
 

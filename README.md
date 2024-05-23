@@ -575,11 +575,18 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 </details>
 
 <details>
+<summary>24. Functional Requirements Document (FRD) - Functional Requirements  </summary>
+
+## Functional Requirements Document (FRD) - Functional Requirements
+
+![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/521b63ce-128c-4b46-b1d2-a1b369465dde)
+
+</details>
+
+<details>
 <summary>24A. Functional Requirements Document (FRD) - Functional Requirements for Home Page  </summary>
 
 ## Functional Requirements Document (FRD) - Functional Requirements for Home Page 
-
-![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/521b63ce-128c-4b46-b1d2-a1b369465dde)
 
 <img width="608" alt="image" src="https://github.com/omeatai/src-Business-Analysis/assets/32337103/b3d2a48e-da2b-4887-9337-4a6e35599ba4">
 

@@ -575,9 +575,9 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 </details>
 
 <details>
-<summary>24. Functional Requirements Document (FRD) - Functional Requirements  </summary>
+<summary>24. Functional Requirements Document (FRD) - Functional Requirements (Ability to Register & Ability to Login)  </summary>
 
-## Functional Requirements Document (FRD) - Functional Requirements
+## Functional Requirements Document (FRD) - Functional Requirements (Ability to Register & Ability to Login) 
 
 ![image](https://github.com/omeatai/src-Business-Analysis/assets/32337103/521b63ce-128c-4b46-b1d2-a1b369465dde)
 

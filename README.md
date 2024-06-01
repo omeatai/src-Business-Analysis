@@ -634,9 +634,15 @@ If given an opportunity to work with us, how will you get up to speed? If Introd
 </details>
 
 <details>
-<summary>25. Functional Requirements Document (FRD) - F  </summary>
+<summary>25. Functional Requirements Document (FRD) - What are the characteristics of a good requirement?  </summary>
 
-## Functional Requirements Document (FRD) - F
+## Functional Requirements Document (FRD) - What are the characteristics of a good requirement?
+
+A good requirement has the following three Characteristics:
+
+- Is documented using simple verbiage and is easy to understand.
+- Is technically feasible.
+- Is testable.
 
 
 # #END</details>
